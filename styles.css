@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+
+div,
+span{
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+}
